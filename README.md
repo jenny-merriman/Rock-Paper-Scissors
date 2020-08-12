@@ -25,6 +25,7 @@ User = Rock
 <img width="478" alt="RPS_game_rock" src="https://user-images.githubusercontent.com/68631829/89981071-1cbd4980-dc6b-11ea-8f93-7c9ab2b45d99.png">
 
 User = Paper
+<img width="478" alt="RPS_game_paper" src="https://user-images.githubusercontent.com/68631829/89981093-2941a200-dc6b-11ea-81c5-38b2abafae26.png">
 
 User = Scissors
 
