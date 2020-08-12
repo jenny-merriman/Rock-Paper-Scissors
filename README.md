@@ -31,3 +31,5 @@ User = Scissors
 <img width="478" alt="RPS_game_scissors" src="https://user-images.githubusercontent.com/68631829/89981280-85a4c180-dc6b-11ea-8535-360c1457449c.png">
 
 User = Bomb
+<img width="478" alt="RPS_game_bomb" src="https://user-images.githubusercontent.com/68631829/89981343-9ce3af00-dc6b-11ea-9963-1493f20fa65a.png">
+
