@@ -28,5 +28,6 @@ User = Paper
 <img width="478" alt="RPS_game_paper" src="https://user-images.githubusercontent.com/68631829/89981093-2941a200-dc6b-11ea-81c5-38b2abafae26.png">
 
 User = Scissors
+<img width="478" alt="RPS_game_scissors" src="https://user-images.githubusercontent.com/68631829/89981280-85a4c180-dc6b-11ea-8535-360c1457449c.png">
 
 User = Bomb
