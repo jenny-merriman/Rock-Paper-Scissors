@@ -19,3 +19,13 @@ The code breaks the game into four parts.
 * Compare the two choices and determine a winner.
 * Start the program and display the results.
 * The code also includes a secret cheat code. When they type in ‘bomb’, the user will win every time.
+
+### Screenshots:
+User = Rock
+<img width="478" alt="RPS_game_rock" src="https://user-images.githubusercontent.com/68631829/89981071-1cbd4980-dc6b-11ea-8f93-7c9ab2b45d99.png">
+
+User = Paper
+
+User = Scissors
+
+User = Bomb
