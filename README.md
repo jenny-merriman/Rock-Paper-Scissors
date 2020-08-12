@@ -22,14 +22,18 @@ The code breaks the game into four parts.
 
 ### Screenshots:
 User = Rock
+
 <img width="478" alt="RPS_game_rock" src="https://user-images.githubusercontent.com/68631829/89981071-1cbd4980-dc6b-11ea-8f93-7c9ab2b45d99.png">
 
 User = Paper
+
 <img width="478" alt="RPS_game_paper" src="https://user-images.githubusercontent.com/68631829/89981093-2941a200-dc6b-11ea-81c5-38b2abafae26.png">
 
 User = Scissors
+
 <img width="478" alt="RPS_game_scissors" src="https://user-images.githubusercontent.com/68631829/89981280-85a4c180-dc6b-11ea-8535-360c1457449c.png">
 
 User = Bomb
+
 <img width="478" alt="RPS_game_bomb" src="https://user-images.githubusercontent.com/68631829/89981343-9ce3af00-dc6b-11ea-9963-1493f20fa65a.png">
 
